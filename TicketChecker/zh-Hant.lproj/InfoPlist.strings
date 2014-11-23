@@ -1,0 +1,5 @@
+/* Localized versions of Info.plist keys */
+CFBundleDisplayName="預訂管家";
+umUpdateTitle="標題";
+umUpdateCancel="放棄按鈕";
+umUpdateOK="確定按鈕";

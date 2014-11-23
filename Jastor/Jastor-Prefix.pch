@@ -1,0 +1,23 @@
+//
+// Prefix header for all source files of the 'Jastor' target in the 'Jastor' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+#endif
+/*
+ 1 // Product.h
+ 2 @interface Product : Jastor//一定要继承Jastor类
+ 3 @property (nonatomic, copy) NSString *name;
+ 4 @property (nonatomic, copy) NSNumber *amount;
+ 5 @end
+ 6
+ 7 // Product.m
+ 8 @implementation Product
+ 9 @synthesize name, amount;
+ 10 @end
+ 11
+ 12 // 关键代码
+ 13 Product *product = [[Product alloc] initWithDictionary:result];//Jastor中的转化函数
+
+*/

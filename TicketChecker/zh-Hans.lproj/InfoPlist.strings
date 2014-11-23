@@ -1,0 +1,5 @@
+/* Localized versions of Info.plist keys */
+CFBundleDisplayName="预订管家";
+umUpdateTitle="标题";
+umUpdateCancel="放弃按钮";
+umUpdateOK="确定按钮";

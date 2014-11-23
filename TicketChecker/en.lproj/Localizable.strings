@@ -1,0 +1,107 @@
+
+
+/*
+ Localizable.strings
+ TicketChecker
+ 
+ Created by admin on 13-11-4.
+ Copyright (c) 2013年 etourer. All rights reserved.
+ */
+
+"Name"="TotalGDS";
+"GoBack"="Back";
+"TabOrder"="Tickets";
+"TabCheckIn"="Check In";
+"TabMine"="Me";
+"Confirm"="OK";
+"Last_Updated"="Last Updated";
+"Release to refresh..."="Release to refresh...";
+"Pull down to refresh..."="Pull down to refresh...";
+"Loading..."="Loading...";
+"language"="en-US";
+"ShutNetworkTitle"="Failed to connect network";
+"ShutNetworkMessage"="Failed to connect network,please check the network";
+
+"umUpdateTitle"="There is a new version";
+"umUpdateCancel"="Cancel";
+"umUpdateOK"="Update";
+
+"Login_Account"="Account";
+"Login_UserName"="Username";
+"Login_Password"="Password";
+"Login_Login"="Login";
+"Login_Exit"="Exit";
+"Login_Message"="Please wait,the system is logging you in";
+"Login_ErrorTitle"="Login failed";
+"Login_ErrorMessage"="Credential doesn't match,Please try again!";
+"Login_NoUserName"="Please enter Username！";
+"Login_NoPassword"="Please enter Password！";
+
+"Scan_Scan"="Check In";
+"Scan_ErrorTitle"="Result of check in";
+"Scan_ErrorMessage"="Ticket code doesn't exist,Please try again！";
+"Scan_ErrorMessageOut"="Ticket can use at %@！";
+"Scan_OrderCode"="Please enter ticket code";
+
+"Index_CurrentOrder"="Tickets";
+"Index_Noshow"="Noshows";
+"Index_Scan"="Check In";
+"Index_TodayOrder"="Tickets Today";
+"Index_TodayGuest"="Guests Today";
+"Index_NoshowOrder"="Tickets-No show";
+"Index_NoshowGuest"="Guests-No show";
+
+"List_TodayOrder"="Tickets";//今日订单
+"List_NoshowOrder"="Noshow Tickets";//未消券订单
+"List_Detail"="Detail";//查看订单
+"List_State"="Status";//订单状态
+"List_AllShow"="Paid(All arrived)";//已付款（全部到场）
+"List_NoShow"="Paid(None arrived)";//已付款（全部未到场）
+"List_SomeShow"="Paid(Partially arrived)";//已付款（部分到场）
+"List_Code"="Code";//订单号码
+"List_ActivityName"="Activity";//活动名称
+"List_SaleDate"="Date";//下单时间
+"List_Contactor"="Contactor";//联系人
+"List_GuestCount"="Guests";//游客数量
+"List_NoDataTitle"="Note of ticket list";
+"List_NoDataMessage"="No more data";
+
+"Detail_All"="All";
+"Detail_CheckIn"="Check In";
+"Detail_NoShow"="No Show";
+"Detail_ErrorTitle"="Record Result";
+"Detail_ErrorMessage"="Record failed";
+"Detail_OrderInfo"="Ticket Info";//订单信息
+"Detail_ContactorInfo"="Contactor Info";//联系人信息
+"Detail_OtherFee"="Preliminary Questionnaire";//其他费用
+"Detail_OrderQuestion"="Add-ons";//其他问题
+"Detail_Particpate"="Particpants";//参与者
+"Detail_Activity"="Activity：";//活动
+"Detail_Option"="Option：";//方案
+"Detail_Saler"="Seller：";//卖家
+"Detail_Price"="Price：";//@"价格："
+"Detail_GuestNum"="Number：";//@"人数："
+"Detail_ContactorName"="Name：";//@"姓名："
+"Detail_ContactorPhone"="Phone：";//@"手机："
+"Detail_ContactorMail"="Email：";//@"邮箱："
+"Detail_GuestName"="Name：";//@"姓名："
+"Detail_GuestPhone"="Phone：";//@"手机："
+"Detail_GuestMail"="Email：";//邮箱
+"Detail_VoucherId"="Voucher：";
+
+"Mine_About"="Back";
+"Mine_Mine"="Me";
+"Mine_About"="About TotalGDS";
+"Mine_Update"="Update Check";
+"Mine_Newest"="Current version is the newest!";
+"Mine_Sugestion"="Suggestions";
+"Mine_ExitTitle"="Exit message";
+"Mine_ExitMessage"="Please make sure you want to exit!";
+"Mine_OK"="OK";
+"Mine_Cancel"="Cancel";
+
+"ToolBar_CurrentOrder"="Tickets";
+"ToolBar_Scan"="Check In";
+
+"About_Exit"="Exit";
+
